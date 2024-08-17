@@ -1,8 +1,28 @@
-# React + Vite
+# Bird Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Bird Tracker App**! 🐦
 
-Currently, two official plugins are available:
+This app helps bird rehabilitators keep track of the birds they find and care for in the bustling city. It's a simple and easy-to-use platform where you can log new sightings, update notes on birds you've encountered, and track their progress as they return to the wild. Whether it's a pigeon in the park or a rare hawk near the city skyscrapers, this app has you covered!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Getting Started
+
+To get the Bird Tracker App up and running on your local machine, follow these simple steps:
+
+### Prerequisites
+
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+### Frontend Setup
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/CSAN7690/FE_bird-tracker-.git
+cd bird-tracker-frontend
+
+2. **Install dependencies:**
