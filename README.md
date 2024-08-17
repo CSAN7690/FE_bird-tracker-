@@ -34,6 +34,10 @@ npm install
 
 Don't forget to setup the backed. 
 
+```bash
+https://github.com/CSAN7690/BE_bird-tracker
+```
+
 🐦 Features
 
 - Add Bird Sightings: Track new bird sightings with species name, location, and notes.
