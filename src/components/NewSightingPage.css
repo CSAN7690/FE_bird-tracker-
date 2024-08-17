@@ -1,0 +1,37 @@
+.new-sighting-page {
+    padding: 2rem;
+  }
+  
+  .new-sighting-page h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .new-sighting-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .new-sighting-page label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .new-sighting-page input,
+  .new-sighting-page textarea {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .new-sighting-page button {
+    background-color: #FAA968;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .new-sighting-page button:hover {
+    background-color: #F85525;
+  }
+  
