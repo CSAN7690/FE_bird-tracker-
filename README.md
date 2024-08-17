@@ -32,12 +32,6 @@ cd bird-tracker-frontend
 npm install
 ```
 
-3. **Run the app:**
-
-```bash
-VITE_API_URL=http://localhost:5001
-```
-
 Don't forget to setup the backed. 
 
 🐦 Features
