@@ -1,0 +1,55 @@
+body {
+    background-image: url ('./CentralParkAriel.jpg');
+  }
+  
+  .homepage {
+      padding: 2rem;
+    }
+    
+    .homepage h2 {
+      margin-bottom: 1rem;
+    }
+    
+    .map {
+      margin-bottom: 2rem;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 0.5rem;
+      border: 1px solid #ddd;
+    }
+    
+    .add-sighting-button {
+      background-color: #FAA968;
+      color: white;
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 1rem;
+    }
+    
+    .add-sighting-button:hover {
+      background-color: #F85525;
+    }
+  
+    .bird-image {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      object-fit: cover;
+      transition: transform 0.3s ease, border-color 0.3s ease;
+      border: 2px solid #0258d1;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    }
+    
+    .bird-image:hover {
+      transform: scale(2.1);
+      border-color: #01579b;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
